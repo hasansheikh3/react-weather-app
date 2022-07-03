@@ -1,2 +1,2 @@
 # react-weather-app
-React Weather App buitl with TailwindCSS.
+React Weather App built with TailwindCSS.
